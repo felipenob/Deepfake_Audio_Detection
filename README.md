@@ -1,6 +1,6 @@
 # Audio Deepfake & Spoofing Detection
 
-**Authors:** Zheng, Felipe  
+**Authors:** Felipe Nobrega, Zheng Lin
 **Course:** Team Lab — Phonetics Track  
 **Presentation:** Final results and insights are available in [`team_lab_poster_portrait.pdf`](./team_lab_poster_portrait.pdf).
 
